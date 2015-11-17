@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WearablesNotifications</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="click_me">Simple notification</string>
+    <string name="click_me_for_action">Action notification</string>
+    <string name="click_me_for_wearable_only_action">Wearable-only action notification</string>
+    <string name="click_me_for_big_view">Big view notification</string>
+    <string name="title_activity_notification_event">NotificationEventActivity</string>
+    <string name="map">Map</string>
+    <string name="notification_event_activity_message">This happens when you click a notification</string>
+    <string name="wearable_only_action">Wearable-only action</string>
+    <string name="almaral_engineering">Almaral Engineering</string>
+    <string name="simple_notification_message">This is a simple notification</string>
+    <string name="action_notification_message">This is a notification with an action</string>
+    <string name="wearable_only_action_notification_message">This is a wearable-only action notification</string>
+    <string name="big_view_style_notification_message">This is a big text style notification that shows a big view content notification on a wearable</string>
+    <string name="click_me_for_pages_notification">Pages notification</string>
+    <string name="click_me_for_stack_notification">Stack notification</string>
+</resources>
